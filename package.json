@@ -1,0 +1,12 @@
+{
+  "name": "text-to-html-converter",
+  "version": "1.0.0",
+  "description": "A simple tool to convert text files to HTML",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build process needed'"
+  },
+  "keywords": ["text", "html", "converter"],
+  "author": "Your Name",
+  "license": "MIT"
+}
